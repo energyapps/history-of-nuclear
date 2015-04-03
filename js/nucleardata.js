@@ -1,7 +1,7 @@
 var data = 
 {
     "timeline": {
-      "headline": "History of Nuclear Energy", 
+      "headline": "History of the Energy Department's Role in Nuclear Security", 
         "text": "<p>From the Manhattan Project to today, learn about the Department of Energy's nuclear energy legacy.</p>", 
         "type": "default",
         "asset": {
@@ -268,7 +268,32 @@ var data =
     "headline":"NNSA & European Atomic Energy Community Reinforce Nuclear Security & Nonproliferation Agreement",
     "text":"The Department's National Nuclear Security Administration (NNSA) and the European Atomic Energy Community (Euratom) conclude in Brussels the second Joint Steering Committee meeting under a 2010 Agreement in the field of nuclear material safeguards and security research and development. The Agreement provides a framework for technical cooperation in nuclear safeguards, border monitoring, nuclear forensics, export controls, and physical protection of nuclear materials and facilities. The meeting serves as an opportunity to reinforce commitments to expand technical cooperation in these areas and advance mutual nuclear security and nonproliferation objectives.",
     "asset":{"media":"http://energy.gov/sites/prod/files/37-Euratom.jpg"}
+  },
+  {
+    "startDate":"12/10/2013",
+    "endDate":"",
+    "headline":"Completion of Megatons to Megawatts Program",
+    "text":"In 2013, NNSA completed all major milestones of the 1993 U.S.-Russia Highly Enriched Uranium (HEU) Purchase Agreement, commonly known as the Megatons to Megawatts Program, which eliminated enough material for 20,000 nuclear weapons.",
+    "asset":{"media":"img/2013-Megatons-to-Megawatts.jpg"}
+  },
+  {
+    "startDate":"3/24/2014",
+    "endDate":"3/25/2014",
+    "headline":"Nuclear Security Summit in The Hague",
+    "text":"At the 2014 Nuclear Security Summit in The Hague 58 world leaders made concrete agreements to reduce the amount of dangerous nuclear material in the world, improve the security of radioactive material and improve the international exchange of information and international cooperation. President Barack Obama said, \"This was not about vague commitments; it was about taking tangible and concrete steps to secure more of the world's nuclear material so it never falls into the hands of terrorists. And that's what we've done.\"",
+    "asset":{"media":"img/3-24-2014-the-hague.jpg"}
+  },
+  {
+    "startDate":"4/2/2015",
+    "endDate":"",
+    "headline":"Framework for Iran Nuclear Deal Announced",
+    "text":"After years of negotiations, Secretary of State John Kerry announces that the United States and Iran have reached a framework for a comprehensive deal. Secretary Ernest Moniz, who was involved in the talks, said, \"The key parameters established today lay the groundwork for achieving the P5+1's objective of blocking Iran's four pathways to nuclear weapons: the two uranium pathways through Iran's Natanz and Fordow enrichment facilities, the plutonium pathway at the Arak reactor and the covert pathway.\"",
+    "asset":{"media":"img/4-2-2015-Iran-Talks.png"}
   }
+
+
+
+
 ]
 }
 }
