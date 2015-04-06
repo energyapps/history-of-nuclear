@@ -2,7 +2,7 @@ var data =
 {
     "timeline": {
       "headline": "History of the Energy Department's Role in Nuclear Security", 
-        "text": "<p>From the Manhattan Project to today, learn about the Department of Energy's nuclear energy legacy.</p>", 
+        "text": "<p>From the Manhattan Project to today, learn about the Department of Energy's nuclear security legacy.</p>", 
         "type": "default",
         "asset": {
           "asset":{"media": "http://energy.gov/sites/prod/files/08-TEIvyMikeWhiteLarge1.jpg"}
