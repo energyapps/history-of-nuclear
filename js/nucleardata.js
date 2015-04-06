@@ -76,7 +76,7 @@ var data =
     "startDate":"8/22/1958",
     "endDate":"",
     "headline":"Eisenhower Announces Moratorium on Nuclear Weapons Testing",
-    "text":"President Eisenhower announces a moratorium on nuclear weapons testing to begin on October 31.",
+    "text":"President Eisenhower announces a moratorium on nuclear weapons testing to begin on October 31, 1958.",
     "asset":{"media":"http://energy.gov/sites/prod/files/10-eisenhowerhalttesting.jpg"}
   },
   {
