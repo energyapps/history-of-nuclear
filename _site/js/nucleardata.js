@@ -20,7 +20,7 @@ var data =
     "startDate":"2/24/1941",
     "endDate":"",
     "headline":"Discovery of Plutonium",
-    "text":"Glenn T. SeaborgÕs research group at the University of California in Berkeley discovers plutonium.",
+    "text":"Glenn T. Seaborg's research group at the University of California in Berkeley discovers plutonium.",
     "asset":{"media":"http://energy.gov/sites/prod/files/02-Seaborgin1941.jpg"}
   },
   {
@@ -46,14 +46,14 @@ var data =
   },
   {
     "startDate":"8/6/1945",
-    "endDate":"8/14/45",
+    "endDate":"8/14/1945",
     "headline":"Atomic Bombs Dropped on Japan",
-    "text":"The gun model uranium bomb, called Little Boy, is dropped on Hiroshima, Japan. Three days later, the implosion model plutonium bomb, called Fat Man, is dropped on Nagasaki, Japan. Five days later, Japan surrenders.",
+    "text":"The gun model uranium bomb, called Little Boy, is dropped on Hiroshima, Japan. Three days later, the implosion model plutonium bomb, called Fat Man, is dropped on Nagasaki, Japan. Five days later, Japan surrendered.",
     "asset":{"media":"http://energy.gov/sites/prod/files/06-LittleBoyLarge.gif"}
   },
   {
     "startDate":"8/1/1946",
-    "endDate":"1/31/50",
+    "endDate":"1/31/1950",
     "headline":"Atomic Energy Commission Created",
     "text":"President Truman signs the Atomic Energy Act of 1946. On January 1, 1947, all atomic energy activities are transferred to the newly created Atomic Energy Commission in accordance with the Act. President Truman instructs the Atomic Energy Commission to expedite development of a thermonuclear weapon.",
     "asset":{"media":"http://energy.gov/sites/prod/files/07-TEAECSigning1946.jpg"}
@@ -68,8 +68,8 @@ var data =
   {
     "startDate":"12/8/1953",
     "endDate":"",
-    "headline":"Atoms For Peace Speech Delivered By President Eisenhower",
-    "text":"President Eisenhower delivers the ÒAtoms for PeaceÓ speech at the United Nations launching efforts to develop peaceful uses of nuclear energy both at home and abroad.",
+    "headline":"\"Atoms For Peace\" Speech Delivered By President Eisenhower",
+    "text":"President Eisenhower delivers the \"Atoms for Peace\" speech at the United Nations launching efforts to develop peaceful uses of nuclear energy both at home and abroad.",
     "asset":{"media":"http://energy.gov/sites/prod/files/09-EisenhowerdeliversAtomsforPeaceSpeech.jpg"}
   },
   {
@@ -81,7 +81,7 @@ var data =
   },
   {
     "startDate":"9/1/1961",
-    "endDate":"9/15/61",
+    "endDate":"9/15/1961",
     "headline":"The Soviet Union and U.S. Break Weapons Testing Moratorium",
     "text":"The Soviet Union breaks the three-year moratorium on nuclear weapons testing. In a period of 60 days, the Soviets conduct 50 atmospheric tests, with a total yield exceeding that of all previous test series, by all nations, combined. Fourteen days later, the U.S. resumes nuclear weapons testing, with an underground test at the Nevada Test Site.",
     "asset":{"media":"http://energy.gov/sites/prod/files/11-WeaponsTestingResumes.jpg"}
@@ -102,17 +102,17 @@ var data =
   },
   {
     "startDate":"7/1/1968",
-    "endDate":"3/5/70",
+    "endDate":"3/5/1970",
     "headline":"Nuclear Non-Proliferation Treaty Signed",
     "text":"The Nuclear Non-Proliferation Treaty prohibiting non-nuclear weapon states from possessing, manufacturing, or acquiring nuclear weapons or other nuclear explosive devices is opened for signature and eventually signed by the United States, Great Britain, the Soviet Union, and forty-five other nations.",
     "asset":{"media":"http://energy.gov/sites/prod/files/14-SigningoftheNPT.jpg"}
   },
   {
     "startDate":"10/11/1974",
-    "endDate":"10/1/77",
-    "headline":"The Establishment of the Department of Energy",
-    "text":"President Ford signs the Energy Reorganization Act of 1974, abolishing the Atomic Energy Commission and establishing the Energy Research and Development Administration and the Nuclear Regulatory Commission. Three years later, President Carter signs the Department of Energy Organization Act. The Federal Energy Administration and Energy Research and Development Administration are abolished, and the Department of Energy (DOE) is activated on October 1, 1977. Bringing together a score of organizational entities from a dozen departments and agencies, the new department is also given responsibility for the nuclear weapons program.",
-    "asset":{"media":"http://energy.gov/sites/prod/files/15-CartunveilsDOEwithSecSchlesinger.jpg"}
+    "endDate":"10/1/1977",
+    "headline":"Ford Signs Energy Reorganization Act",
+    "text":"President Ford signs the Energy Reorganization Act of 1974, abolishing the Atomic Energy Commission and establishing the Energy Research and Development Administration and the Nuclear Regulatory Commission.",
+    "asset":{"media":"img/1974-Ford-signs-Energy-Reorganziation-act.jpg"}
   },
   {
     "startDate":"7/31/1991",
@@ -139,13 +139,13 @@ var data =
     "startDate":"12/7/1993",
     "endDate":"",
     "headline":"Openness Initiative Reveals Past Nuclear Weapons Activities",
-    "text":"Energy Secretary OÕLeary announces an \"openness\" initiative to lift the veil of secrecy from past nuclear activities, revealing that one-fifth of the nationÕs nuclear weapons tests had been kept secret, identifying locations and quantities of weapons grade plutonium, providing information about fusion energy, and documenting the large quantities of mercury used in weapons production.",
+    "text":"Energy Secretary O'Leary announces an \"openness\" initiative to lift the veil of secrecy from past nuclear activities, revealing that one-fifth of the nation's nuclear weapons tests had been kept secret, identifying locations and quantities of weapons grade plutonium, providing information about fusion energy, and documenting the large quantities of mercury used in weapons production.",
     "asset":{"media":""}
   },
   {
     "startDate":"11/23/1994",
     "endDate":"",
-    "headline":"Operation Sapphire Completed",
+    "headline":"\"Operation Sapphire\" Completed",
     "text":"The Department of Energy announces the completion of a highly classified interagency operation -- known as \"Operation Sapphire\" -- to transfer weapons grade highly enriched uranium out of Kazakhstan to the Energy Department's Y-12 Plant at Oak Ridge, Tennessee.",
     "asset":{"media":""}
   },
@@ -165,7 +165,7 @@ var data =
   },
   {
     "startDate":"9/21/1998",
-    "endDate":"9/22/98",
+    "endDate":"9/22/1998",
     "headline":"Secretary of Energy and Russian Minister of Atomic Energy Sign Two Nuclear Agreements",
     "text":"Energy Secretary Bill Richardson, addresses the 42nd session of the General Conference of the International Atomic Energy Agency. The next day, Secretary Richardson and Russian Minister of Atomic Energy Yevgeny Adamov sign two agreements, one designed to facilitate the development of commercial enterprises for Russia's 10 nuclear cities and the other concerning Russian conversion of highly-enriched uranium from nuclear weapons into low-enriched uranium for use as fuel in commercial reactors in the U. S.",
     "asset":{"media":""}
@@ -201,7 +201,7 @@ var data =
   },
   {
     "startDate":"1/30/2002",
-    "endDate":"3/12/02",
+    "endDate":"3/12/2002",
     "headline":"Department Announces Two Nuclear Non-proliferation Agreements with Former Soviet Countries",
     "text":"Secretary Abraham announces nuclear nonproliferation project with the Republic of Kazakhstan and private U.S. industry. Under the project, a former nuclear weapons plant in Kazahkstan will develop its capability to separate low-enriched uranium from uranium concentrates with assistance from two private U.S. companies and DOE's Brookhaven National Laboratory. The uranium will then be made available as a power source to civilian power reactors throughout the world. A little more than a month later, he signs an Implementing Agreement with the Uzbek Minister of Foreign Affairs, Abdulaziz Kamilov, to facilitate cooperation on nuclear nonproliferation between the United States and Uzbekistan. As a result, the United States will begin work to repatriate to Russia highly enriched uranium fuel from a research reactor in Uzbekistan. The Uzbekistan government in turn has pledged to convert the reactor to use low-enriched uranium, the more proliferation-resistant form of reactor fuel. DOE's National Nuclear Security Administration will assist this conversion and aid Uzbekistan in the safe and secure storage of its nuclear materials.",
     "asset":{"media":"http://energy.gov/sites/prod/files/28-SecAbrahamAnnouncesTreaties.jpg"}
@@ -245,14 +245,14 @@ var data =
     "startDate":"4/13/2010",
     "endDate":"",
     "headline":"Nuclear Security Summit in Washington is Largest Gathering of Heads of State in D.C.'s History",
-    "text":"President Obama leads off the Opening Plenary Session of the Nuclear Security Summit in Washington, D.C. Leaders from 47 nations as well as the United Nations, the International Atomic Energy Agency, and the European Union gather in Washington, D.C.Ðthe largest gathering of heads of state and government in WashingtonÕs history. The goal of the Nuclear Security Summit is to highlight the global threat of nuclear terrorism and agree to steps to be taken together to secure nuclear material and prevent illicit nuclear trafficking.",
+    "text":"President Obama leads off the Opening Plenary Session of the Nuclear Security Summit in Washington, D.C. Leaders from 47 nations as well as the United Nations, the International Atomic Energy Agency, and the European Union gather in Washington, D.C.Ðthe largest gathering of heads of state and government in Washington's history. The goal of the Nuclear Security Summit is to highlight the global threat of nuclear terrorism and agree to steps to be taken together to secure nuclear material and prevent illicit nuclear trafficking.",
     "asset":{"media":"http://energy.gov/sites/prod/files/34-NSS.jpeg"}
   },
   {
     "startDate":"4/15/2010",
     "endDate":"",
     "headline":"Nuclear Memorandum Signed with Japan",
-    "text":"The DepartmentÕs National Nuclear Security Administration (NNSA) announces that it has signed a Memorandum of Cooperation on nuclear safeguards and other nonproliferation topics with JapanÕs Ministry of Education, Culture, Sports, Science and Technology. The Memorandum is a significant step in implementing the commitment by President Obama and Japanese Prime Minister Hatoyama November 13, 2009, to expand nuclear nonproliferation, safeguards, and security cooperation.",
+    "text":"The Department's National Nuclear Security Administration (NNSA) announces that it has signed a Memorandum of Cooperation on nuclear safeguards and other nonproliferation topics with Japan's Ministry of Education, Culture, Sports, Science and Technology. The Memorandum is a significant step in implementing the commitment by President Obama and Japanese Prime Minister Hatoyama November 13, 2009, to expand nuclear nonproliferation, safeguards, and security cooperation.",
     "asset":{"media":"http://energy.gov/sites/prod/files/35-Japan-Treaty.jpg"}
   },
   {
@@ -289,6 +289,48 @@ var data =
     "headline":"Framework for Iran Nuclear Deal Announced",
     "text":"After years of negotiations, Secretary of State John Kerry announces that the United States and Iran have reached a framework for a comprehensive deal. Secretary Ernest Moniz, who was involved in the talks, said, \"The key parameters established today lay the groundwork for achieving the P5+1's objective of blocking Iran's four pathways to nuclear weapons: the two uranium pathways through Iran's Natanz and Fordow enrichment facilities, the plutonium pathway at the Arak reactor and the covert pathway.\"",
     "asset":{"media":"img/4-2-2015-Iran-Talks.png"}
+  },
+    {
+    "headline":"President Carter Calls for Creation of Department of Energy",
+    "text":"President Carter announces National Energy Plan in his first major energy speech. His plan calls for the establishment of an energy department.",
+    "startDate":"4/18/1977",
+    "endDate":"",
+    "asset":{"media":"img/4-8-1977-carter-unveils-DOE.jpg"}
+  },
+  {
+    "headline":"Department of Energy Established",
+    "text":"President Carter signs the Department of Energy Organization Act. The Federal Energy Administration and Energy Research and Development Administration are abolished. James R. Schlesinger is sworn in as first Secretary of Energy. ",
+    "startDate":"8/1/1977",
+    "endDate":"",
+    "asset":{"media":"img/8_1_1977-Carter-unveils-DOE-with-Schlesinger.jpg"}
+  },
+  {
+    "headline":"Reagan Calls for a Spent Fuel Storage Facility",
+    "text":"The Reagan Administration announces a nuclear energy policy that anticipates the establishment of a facility for the storage of high-level radioactive waste and lifts the ban on commercial reprocessing of nuclear fuel.",
+    "startDate":"10/8/1981",
+    "endDate":"",
+    "asset":{"media":"img/1981-Reagan-Spent-Fuel.jpg"}
+  },
+  {
+    "headline":"Start of Megatons to Megawatts Program",
+    "text":"Also called the United States-Russia Highly Enriched Uranium Purchase Agreement, the Megatons to Megawatts program was a 20 year, government-to-government agreement for the conversion of 500 metric tons of Russian highly enriched uranium from nuclear warheads to low enriched uranium to fuel U.S. nuclear reactors.",
+    "startDate":"Feb-1993",
+    "endDate":"",
+    "asset":{"media":"img/1993-first-megaton-cylinder.png"}
+  },
+  {
+    "headline":"Nuclear Security Summit in Seoul, South Korea",
+    "text":"Building on the success of the Nuclear Security Summit in Washington, D.C. in 2010, leaders from around the world met in Seoul, South Korea to continue working toward global nuclear security.",
+    "startDate":"3/26/2012",
+    "endDate":"3/27/2012",
+    "asset":{"media":"img/2012-seoul.jpg"}
+  },
+  {
+    "headline":"President Obama Speaks at Brandenburg Gate in Berlin",
+    "text":"Nearly 50 years to the day after President John F. Kennedy's historic speech in the same location, President Obama urged nations not to become complacent after the Cold War. He also announced new steps in the U.S. to reduce national deployed strategic nuclear weapons by up to one-third.",
+    "startDate":"6/19/2013",
+    "endDate":"",
+    "asset":{"media":"img/2013-President-Obama-Speaks-At-Bradenburg-Gate.jpg"}
   }
 
 
