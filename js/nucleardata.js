@@ -87,7 +87,7 @@ var data =
     "asset":{"media":"http://energy.gov/sites/prod/files/11-WeaponsTestingResumes.jpg"}
   },
   {
-    "startDate":"Oct-1962",
+    "startDate":"10/1962",
     "endDate":"",
     "headline":"Cuban Missile Crisis",
     "text":"Reconnaissance reveals Soviet missiles in Cuba. The United States blockades Cuba for 13 days until the Soviet Union agrees to remove its missiles.",
@@ -109,7 +109,7 @@ var data =
   },
   {
     "startDate":"10/11/1974",
-    "endDate":"10/1/1977",
+    "endDate":"",
     "headline":"Ford Signs Energy Reorganization Act",
     "text":"President Ford signs the Energy Reorganization Act of 1974, abolishing the Atomic Energy Commission and establishing the Energy Research and Development Administration and the Nuclear Regulatory Commission.",
     "asset":{"media":"img/1974-Ford-signs-Energy-Reorganziation-act.jpg"}
@@ -314,7 +314,7 @@ var data =
   {
     "headline":"Start of Megatons to Megawatts Program",
     "text":"Also called the United States-Russia Highly Enriched Uranium Purchase Agreement, the Megatons to Megawatts program was a 20 year, government-to-government agreement for the conversion of 500 metric tons of Russian highly enriched uranium from nuclear warheads to low enriched uranium to fuel U.S. nuclear reactors.",
-    "startDate":"Feb-1993",
+    "startDate":"02/1993",
     "endDate":"",
     "asset":{"media":"img/1993-first-megaton-cylinder.png"}
   },
