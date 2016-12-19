@@ -207,9 +207,14 @@ var data =
 }
 
 
-        var timeline_config = {
-         width: "100%",
-         height: "600",
-         debug: true,
-         source: data
-        }
+        // var timeline_config = {
+        //  width: "100%",
+        //  height: "600",
+        //  debug: true,
+        //  source: data
+        // }
+
+         timeline = new TL.Timeline('timeline-embed',
+        data);
+
+
